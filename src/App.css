@@ -1,0 +1,16 @@
+.App {
+  font-family: 'Plus Jakarta Sans';
+}
+
+:root {
+  --font-size1: 1.375rem;
+  --font-size2: 5.125rem;
+  --font-size3: 3rem;
+  --font-size4: 1.25rem;
+  --font-size5: 2.25rem;
+  --font-size6: 1.75rem;
+  --font-size7: 1rem;
+  --font-size8: 1.5rem;
+  --margin-bottom-web: 10rem;
+  --margin-bottom-mobile: 3rem
+}
